@@ -1,5 +1,5 @@
 # Fun with JavaScript Series
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SudeepaShiranthaka_fun-with-javascript&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=SudeepaShiranthaka_fun-with-javascript)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SudeepaShiranthaka_fun-with-javascript2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=SudeepaShiranthaka_fun-with-javascript2)
 
 Code for the following playlists on my YouTube Channel:
 
