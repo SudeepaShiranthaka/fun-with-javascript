@@ -3,6 +3,8 @@ Sonar Staus: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/me
 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=SudeepaShiranthaka_fun-with-javascript2)
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=SudeepaShiranthaka_fun-with-javascript2)
+
 Code for the following playlists on my YouTube Channel:
 
 - [Data Structures and Algorithms](https://www.youtube.com/watch?v=SfoFiWwRwXg&list=PL2sQdFoGnLIgTJ4hP3ab4HoPOe4BT4ose)
